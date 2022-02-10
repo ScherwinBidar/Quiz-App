@@ -1,0 +1,5 @@
+.box1 {
+  border: solid #f5f2e7 5px;
+  height: 100px;
+  display: flex;
+}
