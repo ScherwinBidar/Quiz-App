@@ -1,4 +1,4 @@
 # Quiz-App
 
-#1 I have no clue whats going on
-#2 HELP
+# I have no clue whats going on
+## HELP
