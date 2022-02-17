@@ -1,7 +1,7 @@
 body {
   background-color: #2c3333;
   color: #f5f2e7;
-  font-family: roboto;
+  font-family: roboto, sans-serif;
   display: flex;
   flex-direction: column;
 }
