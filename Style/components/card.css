@@ -1,48 +1,39 @@
 .card1 {
-  border: solid 1px white;
+  border: solid 5px black;
   display: grid;
   background-color: #e9e5d6;
   color: black;
-}
-
-.question1 {
-}
-
-.buttonShowAnswer {
-  border: solid 1px black;
-  margin: 100px;
+  border-radius: 10px;
+  margin: 10px;
   padding: 10px;
+}
+
+.headLine:first-child {
+  font-size: 30px;
   display: flex;
   justify-content: center;
-  font-size: 30px;
 }
 
-.Answer1 {
-  border: solid 1px black;
+p:first-of-type {
   display: flex;
+  justify-content: center;
+}
+
+.InputBox {
+  border: solid 1px black;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  height: 50px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
   gap: 20px;
 }
-
-.answer1-1 {
-  border: solid 1px black;
-  padding: 10px;
-}
-
-.answer1-2 {
-  border: solid 1px black;
-  padding: 10px;
-}
-
-.answer1-3 {
-  border: solid 1px black;
-  padding: 10px;
-}
-
-.answer1-4 {
-  border: solid 1px black;
-  padding: 10px;
-}
-
-.active {
-  background-color: red;
+.buttons button {
+  border-radius: 10px;
 }

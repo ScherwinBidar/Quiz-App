@@ -1,0 +1,11 @@
+body > #header {
+  background-color: #e9e5d6;
+  border: solid 5px black;
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  font-size: 50px;
+}

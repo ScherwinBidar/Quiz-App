@@ -1,9 +1,7 @@
-.QuizzApp {
-  margin: 30px;
-}
-
 body {
   background-color: #2c3333;
   color: #f5f2e7;
   font-family: roboto;
+  display: flex;
+  flex-direction: column;
 }
