@@ -1,4 +1,5 @@
 # Quiz-App
 
-# I have no clue whats going on
-## HELP
+## This is a Quizz-App i created.
+## Contains 3 Questions.
+## Apex Legends, World of Warcraft & Geography
